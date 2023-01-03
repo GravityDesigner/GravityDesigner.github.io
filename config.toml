@@ -1,7 +1,7 @@
-baseURL = "https://hugo-paper.vercel.app/"
-# title = "Hugo Themes"
-author = "Steve Francia"
-copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
+baseURL = "https://GravityDesigner.github.io/"
+title = "Gravity Designer"
+author = "Gabriel Nguyen"
+copyright = "Made with love @2023."
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -12,18 +12,17 @@ ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
 theme = "paper"
-title = "Paper"
 
 [params]
   color = 'linen'
 
-  twitter = 'nanxiaobei'
-  github = 'nanxiaobei'
-  instagram = 'nan.xiaobei'
+  twitter = 'gabrieltnguyen'
+  github = 'gabrieltnguyen'
+  instagram = 'gabrieltnguyen'
 
-  avatar = 'nanxiaobei@gmail.com'
-  name = 'Lee'
-  bio = 'Discover fresh context'
+  avatar = 'gabrieltnguyen@gmail.com'
+  name = 'Gabriel Nguyen'
+  bio = 'Discover fresh context always'
 
 # ------------------------------
 
